@@ -1,7 +1,7 @@
 # Falco Educacional
 
 <p>
-    <img src="public/assets/img/wallpaper.png">
+    <img src="public/assets/img/Wallpaper.png">
 </p>
 
 ## Overview
